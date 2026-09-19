@@ -2,6 +2,7 @@ class Solution {
     public boolean checkOverlap(int r, int xCenter, int yCenter, int x1, int y1, int x2, int y2) {
         int closestX = Math.max(x1, Math.min(xCenter, x2));
         int closestY = Math.max(y1, Math.min(yCenter, y2));
+        // closet meeting point ka distance agr radius se <= hai toh overlap true
         int x = xCenter - closestX;
         int y = yCenter - closestY;
         return x*x + y*y <= r*r;
