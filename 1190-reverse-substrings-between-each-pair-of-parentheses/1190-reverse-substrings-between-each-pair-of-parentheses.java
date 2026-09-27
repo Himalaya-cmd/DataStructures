@@ -1,9 +1,4 @@
-/*
- if '(' -> stack mei push
- if ')' -> toh stack ko pop krke ek stringbuilder mei daaldo aur usse main ans mei add krdo
- kya bracket ko daalenge stack mei?
 
-*/
 class Solution {
     public String reverseParentheses(String s) {
         StringBuilder str = new StringBuilder(s);
@@ -27,10 +22,8 @@ class Solution {
     void manipulate(StringBuilder str, int i, int j) {
         while (i < j) {
             char temp = str.charAt(i);
-
             str.setCharAt(i, str.charAt(j));
             str.setCharAt(j, temp);
-
             i++;
             j--;
         }
