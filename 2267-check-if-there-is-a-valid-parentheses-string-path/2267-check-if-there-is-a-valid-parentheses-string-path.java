@@ -21,7 +21,7 @@ class Solution {
         if(grid[i][j]=='(')balance++;
         else balance--;
         if (balance < 0)return dp[i][j][balance + 1] = 0;
-        if(i == n-1 && j == m-1)return dp[i][j][originalBalance] = (balance == 0 ? 1 : 0);
+        if(i==n-1 && j==m-1 && balance==0)return 1;
         int one = ans(grid,i+1,j,n,m,balance);
         int two = ans(grid,i,j+1,n,m,balance);
         if(one==1 || two==1)dp[i][j][originalBalance]=1;
