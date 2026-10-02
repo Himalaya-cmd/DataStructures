@@ -7,7 +7,7 @@ class Solution {
     }
     void generate(List<String> ans,StringBuilder str, int open, int close, int max){
         if(str.length()==2*max && open==close){
-            if(!ans.contains(str.toString()))ans.add(str.toString());
+            ans.add(str.toString());
             return;
         }
         if(open<max){
