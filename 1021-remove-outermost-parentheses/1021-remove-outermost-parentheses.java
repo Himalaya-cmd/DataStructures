@@ -15,7 +15,9 @@ class Solution {
                 }
             }
             if(str.length()>1 && balance==0){
-                ans.append(str.substring(1,str.length()-1));
+                str.deleteCharAt(str.length()-1);
+                str.deleteCharAt(0);
+                ans.append(str);
                 str = new StringBuilder();
             }
         }
