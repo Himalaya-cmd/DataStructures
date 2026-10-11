@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Himalaya-cmd/DataStructures/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0300-longest-increasing-subsequence](https://github.com/Himalaya-cmd/DataStructures/tree/master/0300-longest-increasing-subsequence) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Himalaya-cmd/DataStructures/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Himalaya-cmd/DataStructures/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Himalaya-cmd/DataStructures/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Himalaya-cmd/DataStructures/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Himalaya-cmd/DataStructures/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Geometry
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Himalaya-cmd/DataStructures/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Himalaya-cmd/DataStructures/tree/master/0032-longest-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Himalaya-cmd/DataStructures/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0678-valid-parenthesis-string](https://github.com/Himalaya-cmd/DataStructures/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Himalaya-cmd/DataStructures/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Himalaya-cmd/DataStructures/tree/master/0921-minimum-add-to-make-parentheses-valid) |
