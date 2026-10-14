@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Himalaya-cmd/DataStructures/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Himalaya-cmd/DataStructures/tree/master/0032-longest-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/Himalaya-cmd/DataStructures/tree/master/0301-remove-invalid-parentheses) |
+| [0567-permutation-in-string](https://github.com/Himalaya-cmd/DataStructures/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Himalaya-cmd/DataStructures/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Himalaya-cmd/DataStructures/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Himalaya-cmd/DataStructures/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -66,11 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Himalaya-cmd/DataStructures/tree/master/0567-permutation-in-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Himalaya-cmd/DataStructures/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Himalaya-cmd/DataStructures/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Himalaya-cmd/DataStructures/tree/master/0567-permutation-in-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Himalaya-cmd/DataStructures/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
@@ -142,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/Himalaya-cmd/DataStructures/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Himalaya-cmd/DataStructures/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Himalaya-cmd/DataStructures/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
