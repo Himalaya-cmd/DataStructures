@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Himalaya-cmd/DataStructures/tree/master/0001-two-sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Himalaya-cmd/DataStructures/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0300-longest-increasing-subsequence](https://github.com/Himalaya-cmd/DataStructures/tree/master/0300-longest-increasing-subsequence) |
 | [0636-exclusive-time-of-functions](https://github.com/Himalaya-cmd/DataStructures/tree/master/0636-exclusive-time-of-functions) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Himalaya-cmd/DataStructures/tree/master/0001-two-sum) |
 | [0567-permutation-in-string](https://github.com/Himalaya-cmd/DataStructures/tree/master/0567-permutation-in-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Himalaya-cmd/DataStructures/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Himalaya-cmd/DataStructures/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
