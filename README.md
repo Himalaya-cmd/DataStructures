@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Himalaya-cmd/DataStructures/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Himalaya-cmd/DataStructures/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Himalaya-cmd/DataStructures/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Himalaya-cmd/DataStructures/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Himalaya-cmd/DataStructures/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Himalaya-cmd/DataStructures/tree/master/0301-remove-invalid-parentheses) |
 | [0567-permutation-in-string](https://github.com/Himalaya-cmd/DataStructures/tree/master/0567-permutation-in-string) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Himalaya-cmd/DataStructures/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Himalaya-cmd/DataStructures/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Himalaya-cmd/DataStructures/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Himalaya-cmd/DataStructures/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Himalaya-cmd/DataStructures/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Himalaya-cmd/DataStructures/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Himalaya-cmd/DataStructures/tree/master/0347-top-k-frequent-elements) |
