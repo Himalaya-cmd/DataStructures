@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Himalaya-cmd/DataStructures/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Himalaya-cmd/DataStructures/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Himalaya-cmd/DataStructures/tree/master/0300-longest-increasing-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/Himalaya-cmd/DataStructures/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Himalaya-cmd/DataStructures/tree/master/0560-subarray-sum-equals-k) |
 | [0636-exclusive-time-of-functions](https://github.com/Himalaya-cmd/DataStructures/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Himalaya-cmd/DataStructures/tree/master/0739-daily-temperatures) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Himalaya-cmd/DataStructures/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Himalaya-cmd/DataStructures/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Himalaya-cmd/DataStructures/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Himalaya-cmd/DataStructures/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Himalaya-cmd/DataStructures/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Himalaya-cmd/DataStructures/tree/master/0567-permutation-in-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Himalaya-cmd/DataStructures/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -171,10 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Himalaya-cmd/DataStructures/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Himalaya-cmd/DataStructures/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Himalaya-cmd/DataStructures/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Himalaya-cmd/DataStructures/tree/master/0347-top-k-frequent-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Himalaya-cmd/DataStructures/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Himalaya-cmd/DataStructures/tree/master/0347-top-k-frequent-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Himalaya-cmd/DataStructures/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Monotonic Stack
 |  |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Himalaya-cmd/DataStructures/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Himalaya-cmd/DataStructures/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Himalaya-cmd/DataStructures/tree/master/0347-top-k-frequent-elements) |
 ## Quicksort
 |  |
 | ------- |
@@ -214,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Himalaya-cmd/DataStructures/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Himalaya-cmd/DataStructures/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -226,4 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Himalaya-cmd/DataStructures/tree/master/0128-longest-consecutive-sequence) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Himalaya-cmd/DataStructures/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Himalaya-cmd/DataStructures/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
