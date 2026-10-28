@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Himalaya-cmd/DataStructures/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Himalaya-cmd/DataStructures/tree/master/0014-longest-common-prefix) |
+| [0042-trapping-rain-water](https://github.com/Himalaya-cmd/DataStructures/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Himalaya-cmd/DataStructures/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Himalaya-cmd/DataStructures/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Himalaya-cmd/DataStructures/tree/master/0075-sort-colors) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Himalaya-cmd/DataStructures/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Himalaya-cmd/DataStructures/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Himalaya-cmd/DataStructures/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Himalaya-cmd/DataStructures/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himalaya-cmd/DataStructures/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/Himalaya-cmd/DataStructures/tree/master/0300-longest-increasing-subsequence) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Himalaya-cmd/DataStructures/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Himalaya-cmd/DataStructures/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Himalaya-cmd/DataStructures/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Himalaya-cmd/DataStructures/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/Himalaya-cmd/DataStructures/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/Himalaya-cmd/DataStructures/tree/master/0678-valid-parenthesis-string) |
@@ -187,11 +190,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Himalaya-cmd/DataStructures/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Himalaya-cmd/DataStructures/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Himalaya-cmd/DataStructures/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Himalaya-cmd/DataStructures/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Himalaya-cmd/DataStructures/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Himalaya-cmd/DataStructures/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Himalaya-cmd/DataStructures/tree/master/0167-two-sum-ii-input-array-is-sorted) |
