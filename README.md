@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Himalaya-cmd/DataStructures/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Himalaya-cmd/DataStructures/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Himalaya-cmd/DataStructures/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Himalaya-cmd/DataStructures/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Himalaya-cmd/DataStructures/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Himalaya-cmd/DataStructures/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Himalaya-cmd/DataStructures/tree/master/0283-move-zeroes) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Himalaya-cmd/DataStructures/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Himalaya-cmd/DataStructures/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Himalaya-cmd/DataStructures/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/Himalaya-cmd/DataStructures/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Himalaya-cmd/DataStructures/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Himalaya-cmd/DataStructures/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Himalaya-cmd/DataStructures/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/Himalaya-cmd/DataStructures/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Himalaya-cmd/DataStructures/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Himalaya-cmd/DataStructures/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/Himalaya-cmd/DataStructures/tree/master/1004-max-consecutive-ones-iii) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Himalaya-cmd/DataStructures/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Himalaya-cmd/DataStructures/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Himalaya-cmd/DataStructures/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Himalaya-cmd/DataStructures/tree/master/1004-max-consecutive-ones-iii) |
