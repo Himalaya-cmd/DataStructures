@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Himalaya-cmd/DataStructures/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Himalaya-cmd/DataStructures/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Himalaya-cmd/DataStructures/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/Himalaya-cmd/DataStructures/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Himalaya-cmd/DataStructures/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Himalaya-cmd/DataStructures/tree/master/0560-subarray-sum-equals-k) |
 | [0636-exclusive-time-of-functions](https://github.com/Himalaya-cmd/DataStructures/tree/master/0636-exclusive-time-of-functions) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Himalaya-cmd/DataStructures/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Himalaya-cmd/DataStructures/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Himalaya-cmd/DataStructures/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Himalaya-cmd/DataStructures/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Himalaya-cmd/DataStructures/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Himalaya-cmd/DataStructures/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -291,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Himalaya-cmd/DataStructures/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Himalaya-cmd/DataStructures/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
