@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Himalaya-cmd/DataStructures/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Himalaya-cmd/DataStructures/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Himalaya-cmd/DataStructures/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Himalaya-cmd/DataStructures/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Himalaya-cmd/DataStructures/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himalaya-cmd/DataStructures/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Himalaya-cmd/DataStructures/tree/master/0128-longest-consecutive-sequence) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Himalaya-cmd/DataStructures/tree/master/0054-spiral-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/Himalaya-cmd/DataStructures/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Himalaya-cmd/DataStructures/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Himalaya-cmd/DataStructures/tree/master/0054-spiral-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Himalaya-cmd/DataStructures/tree/master/0304-range-sum-query-2d-immutable) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Himalaya-cmd/DataStructures/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
