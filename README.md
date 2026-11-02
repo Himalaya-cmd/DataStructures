@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Himalaya-cmd/DataStructures/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Himalaya-cmd/DataStructures/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Himalaya-cmd/DataStructures/tree/master/1004-max-consecutive-ones-iii) |
+| [1109-corporate-flight-bookings](https://github.com/Himalaya-cmd/DataStructures/tree/master/1109-corporate-flight-bookings) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Himalaya-cmd/DataStructures/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Himalaya-cmd/DataStructures/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Himalaya-cmd/DataStructures/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Himalaya-cmd/DataStructures/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Himalaya-cmd/DataStructures/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Himalaya-cmd/DataStructures/tree/master/1004-max-consecutive-ones-iii) |
+| [1109-corporate-flight-bookings](https://github.com/Himalaya-cmd/DataStructures/tree/master/1109-corporate-flight-bookings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Himalaya-cmd/DataStructures/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Stack
 |  |
