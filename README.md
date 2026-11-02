@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Himalaya-cmd/DataStructures/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Himalaya-cmd/DataStructures/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Himalaya-cmd/DataStructures/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Himalaya-cmd/DataStructures/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Himalaya-cmd/DataStructures/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Himalaya-cmd/DataStructures/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Himalaya-cmd/DataStructures/tree/master/0075-sort-colors) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Himalaya-cmd/DataStructures/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Himalaya-cmd/DataStructures/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Himalaya-cmd/DataStructures/tree/master/0189-rotate-array) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Himalaya-cmd/DataStructures/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Himalaya-cmd/DataStructures/tree/master/0048-rotate-image) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Himalaya-cmd/DataStructures/tree/master/0304-range-sum-query-2d-immutable) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Himalaya-cmd/DataStructures/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
