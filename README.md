@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Himalaya-cmd/DataStructures/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Himalaya-cmd/DataStructures/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Himalaya-cmd/DataStructures/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Himalaya-cmd/DataStructures/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Himalaya-cmd/DataStructures/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Himalaya-cmd/DataStructures/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Himalaya-cmd/DataStructures/tree/master/0053-maximum-subarray) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Himalaya-cmd/DataStructures/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Himalaya-cmd/DataStructures/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Himalaya-cmd/DataStructures/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Himalaya-cmd/DataStructures/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Himalaya-cmd/DataStructures/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himalaya-cmd/DataStructures/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/Himalaya-cmd/DataStructures/tree/master/0300-longest-increasing-subsequence) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Himalaya-cmd/DataStructures/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Himalaya-cmd/DataStructures/tree/master/0045-jump-game-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Himalaya-cmd/DataStructures/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Himalaya-cmd/DataStructures/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Himalaya-cmd/DataStructures/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
