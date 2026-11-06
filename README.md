@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Himalaya-cmd/DataStructures/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Himalaya-cmd/DataStructures/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Himalaya-cmd/DataStructures/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/Himalaya-cmd/DataStructures/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Himalaya-cmd/DataStructures/tree/master/0560-subarray-sum-equals-k) |
 | [0636-exclusive-time-of-functions](https://github.com/Himalaya-cmd/DataStructures/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Himalaya-cmd/DataStructures/tree/master/0739-daily-temperatures) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Himalaya-cmd/DataStructures/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Himalaya-cmd/DataStructures/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Himalaya-cmd/DataStructures/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Himalaya-cmd/DataStructures/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/Himalaya-cmd/DataStructures/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Himalaya-cmd/DataStructures/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Himalaya-cmd/DataStructures/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Himalaya-cmd/DataStructures/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himalaya-cmd/DataStructures/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/Himalaya-cmd/DataStructures/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Himalaya-cmd/DataStructures/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Himalaya-cmd/DataStructures/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Himalaya-cmd/DataStructures/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Longest Increasing Subsequence
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Himalaya-cmd/DataStructures/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Himalaya-cmd/DataStructures/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Himalaya-cmd/DataStructures/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/Himalaya-cmd/DataStructures/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Himalaya-cmd/DataStructures/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Himalaya-cmd/DataStructures/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/Himalaya-cmd/DataStructures/tree/master/1109-corporate-flight-bookings) |
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Himalaya-cmd/DataStructures/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Himalaya-cmd/DataStructures/tree/master/0045-jump-game-ii) |
+| [0410-split-array-largest-sum](https://github.com/Himalaya-cmd/DataStructures/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Himalaya-cmd/DataStructures/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Himalaya-cmd/DataStructures/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Himalaya-cmd/DataStructures/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
