@@ -5,10 +5,11 @@ class Solution {
         PriorityQueue<Integer> pq = new PriorityQueue<>((a, b) -> Integer.compare(nums[b], nums[a]));
         for(int r = 0; r < n; r++) {
             pq.offer(r);
+            //top window ke bahar hai
             while(!pq.isEmpty() && pq.peek() <= r - k) {
                 pq.poll();
             }
-            if(r >= k - 1) {
+            if(r>=k-1) {
                 ans[r - k + 1] = nums[pq.peek()];
             }
         }
