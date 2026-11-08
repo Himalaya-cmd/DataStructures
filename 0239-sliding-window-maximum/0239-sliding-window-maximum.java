@@ -3,12 +3,12 @@ class Solution {
         int n = nums.length;
         int[] ans = new int[n - k + 1];
         PriorityQueue<Integer> pq = new PriorityQueue<>((a, b) -> Integer.compare(nums[b], nums[a]));
-        for (int r = 0; r < n; r++) {
+        for(int r = 0; r < n; r++) {
             pq.offer(r);
-            while (!pq.isEmpty() && pq.peek() <= r - k) {
+            while(!pq.isEmpty() && pq.peek() <= r - k) {
                 pq.poll();
             }
-            if (r >= k - 1) {
+            if(r >= k - 1) {
                 ans[r - k + 1] = nums[pq.peek()];
             }
         }
