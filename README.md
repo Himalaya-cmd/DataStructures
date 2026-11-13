@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himalaya-cmd/DataStructures/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/Himalaya-cmd/DataStructures/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Himalaya-cmd/DataStructures/tree/master/0410-split-array-largest-sum) |
+| [0647-palindromic-substrings](https://github.com/Himalaya-cmd/DataStructures/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Himalaya-cmd/DataStructures/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Himalaya-cmd/DataStructures/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3693-climbing-stairs-ii](https://github.com/Himalaya-cmd/DataStructures/tree/master/3693-climbing-stairs-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Himalaya-cmd/DataStructures/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/Himalaya-cmd/DataStructures/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Himalaya-cmd/DataStructures/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/Himalaya-cmd/DataStructures/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Himalaya-cmd/DataStructures/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Himalaya-cmd/DataStructures/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Himalaya-cmd/DataStructures/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Himalaya-cmd/DataStructures/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Himalaya-cmd/DataStructures/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Himalaya-cmd/DataStructures/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/Himalaya-cmd/DataStructures/tree/master/0647-palindromic-substrings) |
 ## Binary Indexed Tree
 |  |
 | ------- |
