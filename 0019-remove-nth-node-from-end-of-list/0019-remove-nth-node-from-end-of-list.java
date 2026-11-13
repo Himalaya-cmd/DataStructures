@@ -18,7 +18,7 @@ class Solution {
             c++;
         }
         int key = c-n;
-        System.out.println(key);
+        // System.out.println(key);
         ListNode demo = head;
         while(key>1){
             demo=demo.next;
