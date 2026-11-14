@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Himalaya-cmd/DataStructures/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himalaya-cmd/DataStructures/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/Himalaya-cmd/DataStructures/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/Himalaya-cmd/DataStructures/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Himalaya-cmd/DataStructures/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/Himalaya-cmd/DataStructures/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Himalaya-cmd/DataStructures/tree/master/0678-valid-parenthesis-string) |
@@ -388,4 +389,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Himalaya-cmd/DataStructures/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/Himalaya-cmd/DataStructures/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
