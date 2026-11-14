@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Himalaya-cmd/DataStructures/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Himalaya-cmd/DataStructures/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Himalaya-cmd/DataStructures/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/Himalaya-cmd/DataStructures/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Himalaya-cmd/DataStructures/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/Himalaya-cmd/DataStructures/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/Himalaya-cmd/DataStructures/tree/master/0678-valid-parenthesis-string) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Himalaya-cmd/DataStructures/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Himalaya-cmd/DataStructures/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Himalaya-cmd/DataStructures/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Himalaya-cmd/DataStructures/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Himalaya-cmd/DataStructures/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Himalaya-cmd/DataStructures/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Himalaya-cmd/DataStructures/tree/master/0283-move-zeroes) |
@@ -368,12 +370,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Himalaya-cmd/DataStructures/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Himalaya-cmd/DataStructures/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Himalaya-cmd/DataStructures/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Himalaya-cmd/DataStructures/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Himalaya-cmd/DataStructures/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Himalaya-cmd/DataStructures/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Himalaya-cmd/DataStructures/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Himalaya-cmd/DataStructures/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Himalaya-cmd/DataStructures/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
