@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Himalaya-cmd/DataStructures/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Himalaya-cmd/DataStructures/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Himalaya-cmd/DataStructures/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Himalaya-cmd/DataStructures/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Himalaya-cmd/DataStructures/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Himalaya-cmd/DataStructures/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Himalaya-cmd/DataStructures/tree/master/0217-contains-duplicate) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Himalaya-cmd/DataStructures/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Himalaya-cmd/DataStructures/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Himalaya-cmd/DataStructures/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Himalaya-cmd/DataStructures/tree/master/0204-count-primes) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Himalaya-cmd/DataStructures/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Himalaya-cmd/DataStructures/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Himalaya-cmd/DataStructures/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Himalaya-cmd/DataStructures/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Himalaya-cmd/DataStructures/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Sorting
 |  |
@@ -397,4 +400,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Himalaya-cmd/DataStructures/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Himalaya-cmd/DataStructures/tree/master/0338-counting-bits) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Himalaya-cmd/DataStructures/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Himalaya-cmd/DataStructures/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Himalaya-cmd/DataStructures/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Himalaya-cmd/DataStructures/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
