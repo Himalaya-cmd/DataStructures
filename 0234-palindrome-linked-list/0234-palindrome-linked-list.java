@@ -23,27 +23,22 @@ class Solution {
            curr = slow.next; 
            slow.next=null;
         }
-        // ListNode prev = null;
-        // ListNode curr = slow;
-        // while(curr!=null){
-        //     ListNode temp = curr.next;
-        //     curr.next = prev;
-        //     prev = curr;
-        //     curr = temp;
-        // }
+        ListNode prev = null;
         while(curr!=null){
-            st.push(curr);
-            curr=curr.next;
+            ListNode temp = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = temp;
         }
-        while(head!=null && !st.isEmpty()){
-            ListNode nikalo = st.pop();
+        while(head!=null && prev!=null){
             // System.out.println(nikalo.val);
-            if(head.val!=nikalo.val)return false;
+            if(head.val!=prev.val)return false;
             head = head.next;
+            prev = prev.next;
         }
-        if(head==null && st.isEmpty())return true;
+        if(head==null && prev==null)return true;
         // System.out.println(head.val);
-        if(head.next==null && st.isEmpty())return true;
+        if(head.next==null && prev==null)return true;
         return false;
     }
 }
